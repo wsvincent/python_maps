@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1300527,42.3334308]
+      },
+      "properties": {
+        "title": "Brookline High School",
+        "description": "The local high school"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.1194968,42.3356531]
+      },
+      "properties": {
+        "title": "Pierce School",
+        "description": "The local middle school"
+      }
+    }
+  ]
+}
