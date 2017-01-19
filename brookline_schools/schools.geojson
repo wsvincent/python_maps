@@ -8,7 +8,27 @@
       },
       "properties": {
         "title": "Brookline High School",
-        "description": "The local high school"
+        "description": "115 Greenough Street"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.120623,42.334023]
+      },
+      "properties": {
+        "title": "Pierce Elementary/Middle School",
+        "description": "333 Washington Street"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.129377,42.328488]
+      },
+      "properties": {
+        "title": "William H Lincoln School",
+        "description": "19 Kennard Road"
       }
     },
     { "type": "Feature",
@@ -17,8 +37,38 @@
         "coordinates": [-71.1194968,42.3356531]
       },
       "properties": {
-        "title": "Pierce School",
-        "description": "The local middle school"
+        "title": "Michael Driscoll School",
+        "description": "64 Westbourne Terrace"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.114181,42.339288]
+      },
+      "properties": {
+        "title": "Lawrence School",
+        "description": "27 Francis Street"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.142152,42.334171]
+      },
+      "properties": {
+        "title": "John D Runkle School",
+        "description": "50 Druce Street"
+      }
+    },
+    { "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.123940,42.344725]
+      },
+      "properties": {
+        "title": "Edward Devotion School",
+        "description": "345 Harvard Street"
       }
     }
   ]
